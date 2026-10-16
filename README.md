@@ -70,7 +70,7 @@ SmartDiet addresses this gap by linking physical activity data with nutrition da
 |---|---|
 | ![Nutrition Advisor](screenshots/04_nutrition_advisor.png) | ![Meals Recommendations](screenshots/05_meals_recommendations.png) |
 
-A full PDF export of the dashboard is available in [`docs/Dashboard_SmartDiet.pdf`](Docs/Dashboard_SmartDiet.pdf).
+A full PDF export of the dashboard is available in [`Docs/Dashboard_SmartDiet.pdf`](Docs/Dashboard_SmartDiet.pdf).
 
 ## Datasets
 

@@ -153,7 +153,7 @@ SmartDiet-PowerBI/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/SmartDiet-PowerBI.git
+   git clone https://github.com/<Farishakamal>/SmartDiet-PowerBI.git
    ```
 2. Open `dashboard/FYP_SmartDiet.pbix` in Power BI Desktop.
 3. Go to the **User Profile** page and enter your details.

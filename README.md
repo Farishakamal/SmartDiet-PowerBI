@@ -64,17 +64,17 @@ SmartDiet addresses this gap by linking physical activity data with nutrition da
 <!-- Replace the paths below with your actual screenshot files -->
 | User Profile | Activity and Energy |
 |---|---|
-| ![User Profile](screenshots/02_user_profile.png) | ![Activity and Energy](screenshots/03_activity_energy.png) |
+| ![User Profile](Screenshots/02_user_profile.png) | ![Activity and Energy](Screenshots/03_activity_energy.png) |
 
 | Nutrition & Meal Advisor | Meals Recommendations |
 |---|---|
-| ![Nutrition Advisor](screenshots/04_nutrition_advisor.png) | ![Meals Recommendations](screenshots/05_meals_recommendations.png) |
+| ![Nutrition Advisor](Screenshots/04_nutrition_advisor.png) | ![Meals Recommendations](Screenshots/05_meals_recommendations.png) |
 
 ### Project Poster
 
 The FYP poster summarising the problem statement, objectives, methodology, system interface and SUS results:
 
-![SmartDiet Poster](screenshots/poster_preview.png)
+![SmartDiet Poster](Screenshots/poster_preview.png)
 
 ## Datasets
 
@@ -104,7 +104,7 @@ The storyboard follows a busy office worker in Kuala Lumpur who believes she is 
 
 The storyboard also highlights the motivating statistics behind the project: 54.2% of Malaysian adults are overweight/obese and about 30% are physically inactive (NHMS 2023).
 
-![SmartDiet Storyboard](design/SmartDiet_Storyboard.png)
+![SmartDiet Storyboard](Design/SmartDiet_Storyboard.png)
 
 ### Use Case Diagram
 
@@ -113,7 +113,7 @@ The use case diagram defines how the two actors interact with the system:
 - **User:** view homepage, input personal metrics, calculate (includes *compute BMR and TDEE*), view result page (includes *display energy balance & TDEE* and *display activity breakdown*), and view meal recommendation (includes *display categorized meals*).
 - **SmartDiet System:** load data, and calculate and filter dietary data by TDEE.
 
-![SmartDiet Use Case Diagram](design/SmartDiet_UseCaseDiagram.png)
+![SmartDiet Use Case Diagram](Design/SmartDiet_UseCaseDiagram.png)
 
 ## Usability Testing (SUS)
 
